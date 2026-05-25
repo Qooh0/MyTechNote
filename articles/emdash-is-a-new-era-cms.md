@@ -2,6 +2,7 @@
 title: "EmDashはWordPress代替というより、Cloudflare時代のCMS実験として面白い"
 description: "Cloudflare の EmDash を、WordPress 代替ではなくサーバレス時代の CMS 実験として見た感想。"
 date: "2026-05-25"
+type: "tech"
 topics: ["zenn", "EmDash", "techblog", "qadiff"]
 published: true
 ---

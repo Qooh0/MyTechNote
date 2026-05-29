@@ -1,0 +1,25 @@
+{
+  "name": "mytechnote",
+  "version": "1.0.0",
+  "description": "My Tech Note",
+  "main": "index.js",
+  "scripts": {
+    "preview": "zenn preview",
+    "new:article": "zenn new:article"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qooh0/MyTechNote.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Qooh0/MyTechNote/issues"
+  },
+  "homepage": "https://github.com/Qooh0/MyTechNote#readme",
+  "devDependencies": {
+    "zenn-cli": "^0.4.8"
+  }
+}

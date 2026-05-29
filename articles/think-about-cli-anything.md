@@ -1,3 +1,14 @@
+---
+title: "About CLI-Anything"
+description: "Think about CLI-Anything"
+date: "2026-05-28"
+updatedDate: "2026-05-28"
+topics: ["CLI-Anything", "IDEA", "qadiff"]
+lang: "en"
+type: "tech"
+published: true
+---
+
 最近、[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) というプロジェクトが話題だ。
 
 名前だけ見ると「なんでも CLI にするやつ」くらいの印象なのだが、少し調べてみると、これは単に便利コマンドを増やすツールというより、AI エージェントが既存ツールを扱いやすくするための CLI レイヤー、という位置づけに近い。

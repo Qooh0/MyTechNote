@@ -18,7 +18,7 @@ published: true
 
 - アプリ名: ChangeProof Agent
 - URL: 一般非公開
-- 動画: [説明動画](https://youtu.be/-To5cJ9L1hk)
+- 動画: [説明動画](https://youtu.be/CGOrSs_jD2U)
 - 使用技術: Azure App Service / Azure OpenAI / Microsoft Foundry / Semantic Kernel / ASP.NET Core 8 / React / TypeScript / SQLite / Azure Blob Storage / Application Insights
 - 対象業務: DNS変更作業のリスク確認、承認文作成、実行手順作成、ロールバック手順作成、作業後報告書ドラフト作成、Evidence Bundle保存
 
